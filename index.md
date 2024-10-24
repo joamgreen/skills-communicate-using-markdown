@@ -6,6 +6,6 @@
 ``` python
 print('Helo world!')
 ```
-- [ ] Turn on GitHub Pages
+- [ ] becare full with all the steps
 - [ ] Outline my portfolio
-- [ ] Introduce myself to the world
+- [ ] Introduce myself to the cloud services world 
